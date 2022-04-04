@@ -1,5 +1,5 @@
 # Starter project
-<<<<<<< HEAD
+
 This is the basic
 ##introduction
 ##Purpose
@@ -8,5 +8,10 @@ This is the basic
 ## introduction
 ## Purpose
 ## How To Contribute
->>>>>>> ae186955dbde15766c1d17f1c456df20e806da4d
+
+=======
+## introduction
+## Purpose
+## How To Contribute
+
 A simple demo repository
