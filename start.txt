@@ -7,6 +7,4 @@ Copyright has been added
 Automatic merge
 
 
-
-
-add merge conflict
+dummy tetx
