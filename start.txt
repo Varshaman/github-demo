@@ -12,3 +12,7 @@ dummy tetx
 
 
 All my control
+
+
+
+rebase conflict
