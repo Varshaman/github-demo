@@ -3,3 +3,5 @@ HI this has been changed
 
 
 Copyright has been added
+
+Automatic merge
