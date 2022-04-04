@@ -2,6 +2,8 @@
 more 
 This is the basic
 ADdding line for rebase
+
+some more text
 ##introduction
 
 ##How To Contribute
