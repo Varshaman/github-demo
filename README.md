@@ -15,3 +15,5 @@ This is the basic
 ## How To Contribute
 
 A simple demo repository
+## CopyRight
+ copyright to be added
